@@ -8,7 +8,7 @@ unzip Tools.zip
 
  bash Tool.sh
 
-python2 Tool.py
+python3   Tool.py
 
 
 # Instala los siguientes frameworks:
