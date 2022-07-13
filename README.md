@@ -1,5 +1,5 @@
 # INSTRUCCIONES 
- git clone https://Arturo254/Tools
+ git clone https://github.com/Arturo254/Tools
 
 
  cd Tools
