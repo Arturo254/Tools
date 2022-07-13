@@ -1,4 +1,6 @@
 # AioPhish
 AioPhish by Arturo
 
-LEER RELEASES 
+
+# Instala los siguientes frameworks: 
+
