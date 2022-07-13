@@ -1,5 +1,14 @@
-# Tool
-Tools by Arturo
+# INSTRUCCIONES 
+ git clone https://Arturo254/Tools
+
+
+ cd Tools
+
+unzip Tools.zip
+
+ bash Tool.sh
+
+python2 Tool.py
 
 
 # Instala los siguientes frameworks:
