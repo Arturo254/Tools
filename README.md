@@ -1,4 +1,16 @@
+# TOOLS
+
+Tools, es una herramienta escrita en python3 para poder instalar 
+Los frameworks listados a continuación 
+Porteados y probados por mi, 
+
+<a href='https://postimg.cc/LhfrBFYj' target='_blank'><img src='https://i.postimg.cc/v8SbyQG2/OMCDev-Mockup111120221911116.png' border='0' alt='OMCDev-Mockup111120221911116'/></a>
+
 # INSTRUCCIONES 
+
+
+```
+
  git clone https://github.com/Arturo254/Tools
 
 
@@ -9,6 +21,8 @@ unzip Tools.zip
  bash Tool.sh
 
 python3   Tool.py
+
+````
 
 
 # Instala los siguientes frameworks:
