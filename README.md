@@ -4,8 +4,7 @@ Tools, es una herramienta escrita en python3 para poder instalar
 Los frameworks listados a continuación 
 Porteados y probados por mi, 
 
-<a href='https://postimg.cc/LhfrBFYj' target='_blank'><img src='https://i.postimg.cc/v8SbyQG2/OMCDev-Mockup111120221911116.png' border='0' alt='OMCDev-Mockup111120221911116'/></a>
-
+<a href='https://postimg.cc/gwBy2bQx' target='_blank'><img src='https://i.postimg.cc/rmqfg89N/OMCDev-Mockup11112022212636172.png' border='0' alt='OMCDev-Mockup11112022212636172'/></a> 
 # INSTRUCCIONES 
 
 
